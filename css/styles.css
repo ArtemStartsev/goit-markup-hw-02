@@ -15,7 +15,6 @@ ul {
     list-style-type: none;
 }
 
-.header {}
 
 .header-menu-logo {
     font-family: "Raleway", sans-serif;
@@ -33,10 +32,8 @@ ul {
 
 .header-menu-list {
     margin: 0;
-    display: flex;
 }
 
-.header-menu-item {}
 
 .header-list-item {
     font-weight: 500;
