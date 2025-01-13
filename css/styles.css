@@ -128,12 +128,12 @@ ul {
     color: #434455;
 }
 
-.section2 {
+.sectiontwo {
     background-color: #f4f4fd;
 }
 
-.section2-h2,
-.section3-h2 {
+.sectiontwo-bigtitle,
+.sectionthree-bigtitle {
     font-weight: 700;
     font-size: 36px;
     line-height: 1.11;
@@ -143,16 +143,16 @@ ul {
     text-transform: capitalize;
 }
 
-.section2-list-item,
-.section3-list-item {
+.sectiontwo-list-item,
+.sectionthree-list-item {
     background-color: #ffffff;
     border: 1px solid #e7e9fc;
     margin-bottom: 20px;
     padding: 10px;
 }
 
-.section2-h3,
-.section3-h3 {
+.sectiontwo-title,
+.sectionthree-title {
     font-weight: 500;
     font-size: 20px;
     line-height: 1.2;
@@ -161,8 +161,8 @@ ul {
     text-align: center;
 }
 
-.section2-text,
-.section3-text {
+.sectiontwo-text,
+.sectionthree-text {
     font-size: 16px;
     line-height: 1.5;
     letter-spacing: 0.02em;
@@ -170,7 +170,7 @@ ul {
     text-align: center;
 }
 
-.section3-list {
+.sectionthree-list {
     list-style: none;
     padding: 0;
 }
