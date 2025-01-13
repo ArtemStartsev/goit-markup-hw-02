@@ -132,63 +132,49 @@ ul {
     background-color: #f4f4fd;
 }
 
-.section2-h2 {
-font-weight: 700;
+.section2-h2,
+.section3-h2 {
+    font-weight: 700;
     font-size: 36px;
-    line-height: 1.11111;
+    line-height: 1.11;
     letter-spacing: 0.02em;
     text-align: center;
     color: #2e2f42;
+    text-transform: capitalize;
 }
 
-.section2-list-item {
-    background: #fff;
+.section2-list-item,
+.section3-list-item {
+    background-color: #ffffff;
+    border: 1px solid #e7e9fc;
+    margin-bottom: 20px;
+    padding: 10px;
 }
 
-.section2-h3 {
+.section2-h3,
+.section3-h3 {
     font-weight: 500;
     font-size: 20px;
     line-height: 1.2;
+    letter-spacing: 0.02em;
     color: #2e2f42;
     text-align: center;
 }
 
-.section2-text {
-    font-size: 16px;
-    line-height: 1.5;
-    letter-spacing: 0.02em;
-    color: #434455;
-    text-align: center;
-}
-
-.section3-h2 {
-font-weight: 700;
-    font-size: 36px;
-    line-height: 1.11111;
-    letter-spacing: 0.02em;
-    text-align: center;
-    color: #2e2f42;
-}
-.section3-h3 {
-    font-weight: 500;
-        font-size: 20px;
-        line-height: 1.2;
-        letter-spacing: 0.02em;
-        color: #2e2f42;
-}
-
+.section2-text,
 .section3-text {
- font-weight: 400;
     font-size: 16px;
     line-height: 1.5;
     letter-spacing: 0.02em;
     color: #434455;
+    text-align: center;
 }
-.section3-list-item {
-    border-bottom: 1px solid #e7e9fc;
-    border-left: 1px solid #e7e9fc;
-    border-right: 1px solid #e7e9fc;
+
+.section3-list {
+    list-style: none;
+    padding: 0;
 }
+
 
 .footer {
     background-color: #2e2f42;
