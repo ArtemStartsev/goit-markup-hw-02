@@ -148,7 +148,9 @@ ul {
 .sectionthree-list {
     list-style: none;
 }
-
+.sectionthree-list-item {
+    background-color: #ffffff;
+}
 .footer {
     background-color: #2e2f42;
 }
