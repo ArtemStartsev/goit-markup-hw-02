@@ -126,13 +126,6 @@ ul {
     text-transform: capitalize;
 }
 
-.sectiontwo-list-item,
-.sectionthree-list-item {
-    background-color: #ffffff;
-    border: 1px solid #e7e9fc;
-    margin-bottom: 20px;
-}
-
 .sectiontwo-title,
 .sectionthree-title {
     font-weight: 500;
